@@ -1,1 +1,2 @@
 Please store the resnet50 pre-training files in this directory
+https://www.kaggle.com/datasets/luohongxin/resnet50-pre-training-weight

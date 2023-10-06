@@ -1,1 +1,1 @@
-
+This directory stores training and test information.

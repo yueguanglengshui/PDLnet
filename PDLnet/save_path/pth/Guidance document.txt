@@ -1,1 +1,1 @@
-txt
+This directory stores the training and test model parameters.

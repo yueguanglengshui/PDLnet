@@ -1,1 +1,1 @@
-Please store the pre-training files in this directory
+Please store the resnet50 pre-training files in this directory

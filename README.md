@@ -7,5 +7,9 @@ Download dataset from https://www.kaggle.com/datasets/luohongxin/pbrd-dataset
 
 
 
+Modify the parameters in train.py according to your requirements, then run train.py.
+
+
+
 
 
